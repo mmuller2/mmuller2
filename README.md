@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">I'm a full stack junior developer freshly graduated out School of Code</h3>
+<h3 align="center">I'm a full stack junior developer freshly graduated from the School of Code</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmuller2" alt="mmuller2" /></a> </p>
 
