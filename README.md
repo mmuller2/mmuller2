@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Max
 
 
-![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmuller2&count_private=true)
+![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmuller2&count_private=true&count_private=true)
 
 <!--
 **mmuller2/mmuller2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
