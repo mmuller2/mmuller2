@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmuller2" alt="mmuller2" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, SQL, along with polishing react**
+- 🌱 I’m currently learning **A bit of GO, React, and as always codewarrss**
 
 - 👯 I’m looking to collaborate on **any project !!**
 
