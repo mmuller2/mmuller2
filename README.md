@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 I'm Max -->
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuller2)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">I'm a full stack junior developer freshly graduated from the School of Code</h3>
