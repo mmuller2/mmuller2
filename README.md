@@ -3,7 +3,10 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Max</h1>
+<!-- <h1 align="center">Hi 👋, I'm Max</h1>
+ -->
+![](https://github.com/mmuller2/mmuller2/blob/main/banner%20bigger%20let.png)
+
 
 <h3 align="center">I'm a full stack junior developer freshly graduated from the School of Code</h3>
 
