@@ -8,7 +8,7 @@
 ![](https://github.com/mmuller2/mmuller2/blob/main/banner%20bigger%20let.png)
 
 
-<h3 align="center">I'm a full stack junior developer freshly graduated from the School of Code</h3>
+<h3 align="center">I'm a full stack developer </h3>
 
  <br>
  
