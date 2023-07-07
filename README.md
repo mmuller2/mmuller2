@@ -12,8 +12,7 @@
 
  <br>
  
-- 🌱 I’m currently learning **A bit of GO, React, and as always codewarrss**
-- 👯 I’m looking to collaborate on **any project !!**
+- 🌱 Always Learning**
 
 <!-- --------------------Connect with me---------------->
 
