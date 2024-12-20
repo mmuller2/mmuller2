@@ -54,11 +54,6 @@
 
  <!-- --------------------END Most used Languages---------------->
  
-  <!-- --------------------STATS---------------->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmuller2&count_private=true&show_icons=true&theme=dark&locale=en" alt="mmuller2" /></p>
-
-<!-- --------------------END of STATS---------------->
 
 <!-- --------------------Contributions---------------->
 
@@ -66,19 +61,7 @@
 
 <!-- --------------------END of Contributions---------------->
 
-<!-- --------------------Trophys---------------->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmuller2" alt="mmuller2" /></a> </p>
-
-<!-- --------------------END of Trophys---------------->
-
-<!-- 
-// private stats -->
-<!-- ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmuller2&count_private=true&count_private=true) -->
-
-
-
-<!--
 **mmuller2/mmuller2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
